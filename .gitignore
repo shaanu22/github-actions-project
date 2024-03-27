@@ -3,5 +3,3 @@
 .gradle/*
 out/
 build/
-.vscode
-bin
